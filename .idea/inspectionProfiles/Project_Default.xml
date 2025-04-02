@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="All libs from HelloProcessing" />
+          <option value="All libs from HelloProcessing" />
+          <option value="All libs from HelloProcessing" />
+          <option value="HelloProcessing" />
+          <option value="HelloProcessing" />
+          <option value="HelloProcessing" />
+          <option value="SortVisualizer-maven2" />
+          <option value="SortVisualizer-maven2" />
+          <option value="SortVisualizer-maven2" />
+          <option value="SortVisualizer-maven" />
+          <option value="SortVisualizer-maven" />
+          <option value="SortVisualizer-maven" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="com.lowagie:itext:2.1.7" />
+          <option value="bouncycastle:bcprov-jdk14:138" />
+          <option value="commons-io:commons-io:1.3.1" />
+          <option value="commons-io:commons-io:1.3.1" />
+          <option value="com.lowagie:itext:2.1.7" />
+          <option value="bouncycastle:bcprov-jdk14:138" />
+          <option value="commons-io:commons-io:1.3.1" />
+          <option value="com.lowagie:itext:2.1.7" />
+          <option value="bouncycastle:bcprov-jdk14:138" />
+          <option value="commons-io:commons-io:1.3.1" />
+          <option value="com.lowagie:itext:2.1.7" />
+          <option value="bouncycastle:bcprov-jdk14:138" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
