@@ -1,7 +1,7 @@
 # yet-another_Sorting_Visualizer
 Yet Another Sorting Visualizer made in Processing 4.3.4/java.
 
-Every few years, Timo Bergman's, W0rthy's, Kuvina's or another sorting visualizer demos hit my YT feed, and I feel the urge to 
+Every few years, Timo Bingmann's, W0rthy's, Kuvina's or another sorting visualizer demos hit my YT feed, and I feel the urge to 
 write my own.
 
 Sucks that I suck at programming or know any modern language very well.
